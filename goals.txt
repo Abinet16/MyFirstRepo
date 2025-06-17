@@ -1,0 +1,7 @@
+# My Personal and Academic Goals for Next Year
+
+- Improve my coding skills and build at least 3 real-world projects.
+- Contribute to an open-source project on GitHub.
+- Maintain consistent academic performance in my software engineering courses.
+- Learn advanced concepts in web development and data structures.
+- Participate in a hackathon or coding competition.
