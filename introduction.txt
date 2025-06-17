@@ -1,0 +1,5 @@
+# Brief Introduction About Myself
+
+Hello! My name is [Your Name]. I am currently learning the basics of GitHub and software development. I have a keen interest in technology, coding, and exploring how software works.
+
+I'm excited to begin this journey and build useful projects while improving my skills in version control, collaboration, and software engineering.
