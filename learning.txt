@@ -1,1 +1,1 @@
-In this course, I have learned how to use Git and GitHub for version control. I've also gained a better understanding of how repositories, branches, and commits work together to manage code changes efficiently.
+"What I have learned from this course"
